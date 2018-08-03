@@ -9,4 +9,8 @@ Using Amazon Lightsail Server Instance
 The configuration for this project was made using the link below:
 https://github.com/kongling893/Linux-Server-Configuration-UDACITY/blob/master/README.md
 
-
+3) Software and websites used
+- Vagrant and VirtualBox for accessing the server
+- Git Bash to use the terminal on Windows
+- Amazon Lightsail account to configure the server
+- Git for uploading the project
